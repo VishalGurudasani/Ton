@@ -1,0 +1,6 @@
+{
+    "name": "Sample Token",
+    "symbol": "SMPL",
+    "description": "Sample Jetton Token",
+    "decimals": 9,
+}
