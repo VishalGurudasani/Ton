@@ -1,7 +1,7 @@
 {
-    "name": "Sample Token",
-    "symbol": "SMPL",
-    "description": "Sample Jetton Token",
+    "name": "Assassin",
+    "symbol": "ASN",
+    "description": "Token for those who moves in shadow",
     "decimals": 9,
     "image":""
 }
