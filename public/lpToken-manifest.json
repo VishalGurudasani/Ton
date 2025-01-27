@@ -1,1 +1,7 @@
-
+{
+    "name": "LPToken",
+    "symbol": "LP",
+    "description": "LiquidityProviderToken",
+    "decimals": 9,
+    "image":""
+}
